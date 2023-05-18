@@ -23,7 +23,7 @@ Questions such as: In Bergen County, what type of customer has the highest use o
 1. Clone the GitHub Repo into the Terminal.  
 ![image](https://github.com/TCNJ-degoodj/cab-project-2/blob/fe97700a06f4287ff5484c0554c2d1f0619c8f33/docs/Images/000.png)
 2. Go to path `cd cab-project-2/src/SQL` using the terminal.  
-![image](https://github.com/TCNJ-degoodj/cab-project-2/blob/fe97700a06f4287ff5484c0554c2d1f0619c8f33/docs/Images/001.png)
+![image]([https://github.com/TCNJ-degoodj/cab-project-2/blob/fe97700a06f4287ff5484c0554c2d1f0619c8f33/docs/Images/001.png](https://github.com/Simon-Blamo/Spring-2023-CAB/blob/7583f595a54e02c1f5f210cdb7451fdf0681a337/docs/Images/001.png))
 3. Use the command `unzip EXTRACT_ME.zip` in terminal to extract the zip file containing the files `setup.sh`, `flask_install.sh`,`webapp.sh`, and `drop.sh`.  
 ![image](https://github.com/TCNJ-degoodj/cab-project-2/blob/fe97700a06f4287ff5484c0554c2d1f0619c8f33/docs/Images/002.png)
 4. Run command `sh setup.sh` in terminal. This will create the tables and insert the data.
